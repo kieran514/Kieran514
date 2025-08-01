@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I'm a PhD candidate at Aston University, specializing in 3D machine perception and generative AI. My research, in collaboration with Aurrigo, focuses on self-supervised monocular depth estimation to advance autonomous navigation and 3D scene understanding. I have first-authored publications at top-tier conferences, including ICCV and BMVC.<br><br>My work involves architecting and prototyping novel deep learning systems for 3D reconstruction and video understanding, with the goal of engineering efficient solutions for digital twins, AR/VR, and robotics.
+I'm a PhD candidate at Aston University, specialising in 3D machine perception and generative AI. My research focuses on self-supervised monocular depth estimation to advance autonomous navigation and 3D scene understanding. I have first-authored publications at top-tier conferences, including ICCV and BMVC.<br><br>My work involves architecting and prototyping novel deep learning systems for 3D reconstruction and video understanding, with the goal of engineering efficient solutions for digital twins, AR/VR, and robotics.
 
 ---
 
