@@ -70,6 +70,5 @@ I'm a PhD candidate at Aston University, specializing in 3D machine perception a
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kieran514&repo=baseboostdepth&theme=dracula&show_owner=true"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kieran514&repo=Dyna-DM&theme=dracula&show_owner=true"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kieran514&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
