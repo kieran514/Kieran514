@@ -3,7 +3,7 @@ I'm a PhD candidate at Aston University, specialising in 3D machine perception a
 
 ---
 
-🌐 Socials:
+## 🌐 Socials:
 <p align="left">
 <a href="https://kieran514.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
 <a href="https://www.linkedin.com/in/kieran-saunders-6a5a801a3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
