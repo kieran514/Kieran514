@@ -17,7 +17,6 @@ I'm a PhD candidate at Aston University, specialising in 3D machine perception a
 <strong>Languages:</strong><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
@@ -32,9 +31,7 @@ I'm a PhD candidate at Aston University, specialising in 3D machine perception a
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat&logo=scipy&logoColor=white" alt="SciPy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly"/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" alt="Anaconda"/>
-<img src="https://img.shields.io/badge/OCTAVE-darkblue?style=flat&logo=octave&logoColor=fcd683" alt="Octave"/>
 </p>
 <p align="left">
 <strong>Platforms, Tools & Databases:</strong><br>
@@ -46,16 +43,12 @@ I'm a PhD candidate at Aston University, specialising in 3D machine perception a
 <img src="https://img.shields.io/badge/Unity-20232A?style=flat&logo=unity&logoColor=white" alt="Unity"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" alt="Arduino"/>
 <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="Postgres"/>
 </p>
 <p align="left">
 <strong>Documents & Productivity:</strong><br>
 <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX"/>
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion"/>
-<img src="https://img.shields.io/badge/Trello-026AA7?style=flat&logo=Trello&logoColor=white" alt="Trello"/>
-<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" alt="Gradle"/>
 </p>
 
 ---
