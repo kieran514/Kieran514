@@ -1,4 +1,4 @@
-💫 About Me:
+## 💫 About Me:
 I'm a PhD candidate at Aston University, specializing in 3D machine perception and generative AI. My research, in collaboration with Aurrigo, focuses on self-supervised monocular depth estimation to advance autonomous navigation and 3D scene understanding. I have first-authored publications at top-tier conferences, including ICCV and BMVC.<br><br>My work involves architecting and prototyping novel deep learning systems for 3D reconstruction and video understanding, with the goal of engineering efficient solutions for digital twins, AR/VR, and robotics.
 
 ---
@@ -12,7 +12,7 @@ I'm a PhD candidate at Aston University, specializing in 3D machine perception a
 
 ---
 
-💻 Tech Stack:
+## 💻 Tech Stack:
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch"/>
@@ -28,7 +28,7 @@ I'm a PhD candidate at Aston University, specializing in 3D machine perception a
 
 ---
 
-📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kieran514&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <br/>
