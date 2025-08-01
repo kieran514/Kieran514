@@ -29,8 +29,9 @@ I'm a PhD candidate at Aston University, specializing in 3D machine perception a
 ---
 
 ## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kieran514&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kieran514&layout=compact&langs_count=8&theme=dracula"/>
-</p>
+<br/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+    <img alt="Total GitHub Stars" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3DYOUR_GITHUB_USERNAME&query=%24.totalStars&label=Total%20GitHub%20Stars&style=for-the-badge&logo=star&logoColor=white&color=f9b428"/>
+</a>
+<br/>
+<br/>
