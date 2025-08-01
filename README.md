@@ -30,7 +30,7 @@ I'm a PhD candidate at Aston University, specializing in 3D machine perception a
 
 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kieran514&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kieran514&layout=compact&langs_count=8&theme=dracula"/>
 </p>
