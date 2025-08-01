@@ -50,14 +50,3 @@ I'm a PhD candidate at Aston University, specialising in 3D machine perception a
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion"/>
 </p>
-
----
-
-## 📊 GitHub Stats:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kieran514&repo=robustdepth&theme=dracula&show_owner=true"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kieran514&repo=baseboostdepth&theme=dracula&show_owner=true"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kieran514&repo=Dyna-DM&theme=dracula&show_owner=true"/>
-<br/>
-</p>
-
