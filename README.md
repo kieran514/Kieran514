@@ -14,6 +14,57 @@ I'm a PhD candidate at Aston University, specializing in 3D machine perception a
 
 ## 💻 Tech Stack:
 <p align="left">
+<strong>Languages:</strong><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
+</p>
+<p align="left">
+<strong>Data Science & Machine Learning:</strong><br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white" alt="Keras"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat&logo=scipy&logoColor=white" alt="SciPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" alt="Anaconda"/>
+<img src="https://img.shields.io/badge/OCTAVE-darkblue?style=flat&logo=octave&logoColor=fcd683" alt="Octave"/>
+</p>
+<p align="left">
+<strong>Platforms, Tools & Databases:</strong><br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" alt="CUDA"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/SLURM-128c44?style=flat&logo=linux&logoColor=white" alt="SLURM"/>
+<img src="https://img.shields.io/badge/Unity-20232A?style=flat&logo=unity&logoColor=white" alt="Unity"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" alt="Arduino"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="Postgres"/>
+</p>
+<p align="left">
+<strong>Documents & Productivity:</strong><br>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion"/>
+<img src="https://img.shields.io/badge/Trello-026AA7?style=flat&logo=Trello&logoColor=white" alt="Trello"/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" alt="Gradle"/>
+</p>
+
+
+
+<p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/>
@@ -29,9 +80,8 @@ I'm a PhD candidate at Aston University, specializing in 3D machine perception a
 ---
 
 ## 📊 GitHub Stats:
-<br/>
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-    <img alt="Total GitHub Stars" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3DYOUR_GITHUB_USERNAME&query=%24.totalStars&label=Total%20GitHub%20Stars&style=for-the-badge&logo=star&logoColor=white&color=f9b428"/>
-</a>
-<br/>
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kieran514&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kieran514&layout=compact&langs_count=8&theme=dracula"/>
+</p>
